@@ -1,0 +1,2 @@
+# employee-analytics
+Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNGU1YzkyNDAtMGVjOS00MjA4LWFlM2MtYTcxYTcyMGY4YTg2IiwidCI6IjUwMDBmZmM1LTgxNjQtNDc2MC04MDNkLTE3ZWMwYzdiY2E5ZSJ9
